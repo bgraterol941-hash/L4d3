@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/infected/riotinfected/riotshield_metal"
+	"$nocull" 1
+}
