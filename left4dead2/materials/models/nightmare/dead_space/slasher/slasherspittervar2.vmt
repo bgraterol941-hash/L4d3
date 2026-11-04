@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\nightmare\Dead_Space\slasher/0022_slasherspitter_cout"
+"$bumpmap" "models\nightmare\Dead_Space\slasher/0024_slasherspitter_nout"
+"$phongexponenttexture" "models\nightmare\Dead_Space\slasher/0026_slasherspitter_spout"
+$phong 1
+"$phongboost" ".3"
+$PhongExponent 20
+"$phongfresnelranges" "[5 1.5 2]"
+"$ambientocclusion" "1"
+"$halflambert" "1"
+}
