@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+ "$basetexture" "models/infected/guzzler_blend/guzzler_blend"
+ "$bumpmap" "models/infected/guzzler_blend/guzzler_blend_normal"
+ "$halflambert" "1"
+}
