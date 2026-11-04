@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/infected/jockey22/jockeybeta22"
+	"$detail" "models/infected/common/l4d2/ci_burning"
+
+	"$bbqamount" "1"
+	"$BurnLevel" "0"
+
+	"Proxies"
+	{
+		"BBQLevel"
+		{
+			"resultVar" "$bbqamount"
+		}
+		"BurnLevel"
+		{
+			"resultVar" "$burnlevel"
+		}
+		"Equals"
+		{
+			"srcVar1" "$BurnLevel"
+			"resultVar" "$detailblendfactor"
+		}
+	}
+}
+
+
+
+
+
