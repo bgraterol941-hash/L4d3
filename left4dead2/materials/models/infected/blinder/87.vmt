@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/infected/blinder/87"
+	"$nocull" 1
+}
